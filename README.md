@@ -1,87 +1,242 @@
-# Martí Zamora i Merino
+<div align="center">
 
-**Artista 3D · Videojocs i experiències interactives · Coordinació tecnològica · Docència i mentoria**
+# Hola, soy Martí Zamora i Merino 👋
 
-Connecto art, tecnologia i aprenentatge per donar forma a projectes digitals i acompanyar les persones que els fan possibles.
+### Artista 3D · Desarrollo interactivo · Docencia y mentoría
 
-[Portafolis 3D](https://www.artstation.com/mzamoramerino) · [LinkedIn](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) · [Contacte](mailto:mzamoramerino@gmail.com)
+**Creatividad para imaginar. Técnica para construir. Experiencia para acompañar.**
+
+Conecto el arte digital, los videojuegos y la formación a través de proyectos, personas y conocimiento compartido.
+
+[![Portfolio](https://img.shields.io/badge/ARTSTATION-Portfolio_3D-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/mzamoramerino)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Conectemos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998)
+[![Email](https://img.shields.io/badge/EMAIL-Hablemos-D97052?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzamoramerino@gmail.com)
+
+**Arte y producción 3D** &nbsp; / &nbsp; **Videojuegos y VR** &nbsp; / &nbsp; **Coordinación y formación**
+
+</div>
+
+<!-- Opcional: añade aquí una imagen panorámica propia con una selección de tus trabajos.
+Guárdala en assets/banner-portfolio.jpg y utiliza:
+![Selección de trabajos de arte 3D de Martí Zamora](assets/banner-portfolio.jpg)
+-->
 
 ---
 
-## Sobre mi
+## 🎯 Sobre mí
 
-Soc artista 3D, professional de l'àmbit dels videojocs i docent, amb una trajectòria que combina producció artística, programació, coordinació d'equips i formació de nous professionals. Des de 2019 he desenvolupat la meva activitat en entorns educatius i creatius, assumint responsabilitats que van de la creació de continguts digitals a la planificació de programes formatius i la mentoria de projectes.
+Soy **artista 3D, docente y mentor de proyectos**, con experiencia en producción digital, programación y coordinación del área tecnológica. Mi trayectoria combina el trabajo creativo y técnico con la organización de programas formativos y el acompañamiento de nuevos profesionales.
 
-La meva especialització és el **modelatge, l'escultura digital i la creació d'assets 3D per a entorns en temps real**. Aquesta base artística conviu amb una visió tècnica del desenvolupament interactiu i amb l'experiència de coordinar persones, organitzar processos i convertir idees en propostes viables.
+Mi especialidad es el **modelado, la escultura digital y la creación de assets para entornos en tiempo real**. Trabajo con una visión que conecta la intención artística con las necesidades de producción: cómo se construye un recurso, cómo se integra y qué aporta a la experiencia final.
 
-M'interessa especialment el punt de trobada entre la creativitat i la utilitat: videojocs, *serious games*, realitat virtual i experiències que permetin aprendre, explorar o comunicar d'una manera diferent.
+Desde 2019 desarrollo mi trayectoria docente en formación profesional, a la que he sumado formación de postgrado, responsabilidades de coordinación e intercambios internacionales. En paralelo, mi actividad en **ViOD Games Studio** me permite vincular la creación de contenidos 3D con proyectos de *serious games* y mentoría.
 
-## Àmbits de treball
+Me interesan los proyectos en los que distintas disciplinas se necesitan entre sí: **arte, programación, diseño, tecnología y aprendizaje**. Disfruto creando, resolviendo problemas y ayudando a que un equipo o una idea encuentren su siguiente paso.
 
-### Art 3D i producció digital
+## 🧭 Qué puedo aportar
 
-Treballo en la creació de personatges, objectes i recursos visuals, des de la conceptualització fins a la seva preparació per a entorns interactius. El meu perfil inclou modelatge, escultura digital, retopologia, texturització, renderització i postproducció, amb atenció a la coherència visual i als requisits tècnics de cada projecte.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 Arte 3D y producción visual</h3>
+<p>Creación de personajes, objetos y recursos para proyectos digitales, atendiendo tanto a su identidad visual como a sus necesidades técnicas.</p>
+<ul>
+<li>Modelado y escultura digital.</li>
+<li>Retopología, texturas y materiales.</li>
+<li>Concept art y desarrollo visual.</li>
+<li>Render y postproducción.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>🎮 Videojuegos y experiencias interactivas</h3>
+<p>Una mirada que conecta la producción artística con la lógica de las experiencias en tiempo real.</p>
+<ul>
+<li>Assets para Unity y Unreal Engine.</li>
+<li>Participación en proyectos de serious games.</li>
+<li>Proyectos formativos de realidad virtual.</li>
+<li>Programación en Java y JavaScript en el ámbito docente.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧩 Coordinación y planificación</h3>
+<p>Experiencia organizando formación tecnológica y conectando especialidades, necesidades y equipos docentes.</p>
+<ul>
+<li>Coordinación de ciclos de FP y postgrado.</li>
+<li>Planificación de programas y contenidos.</li>
+<li>Revisión y mejora curricular.</li>
+<li>Conexión entre formación y práctica profesional.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Docencia y mentoría</h3>
+<p>Acompañamiento centrado en el criterio propio, la autonomía y la capacidad de llevar un proyecto adelante.</p>
+<ul>
+<li>Formación profesional y especialización en arte 3D.</li>
+<li>Aprendizaje basado en proyectos.</li>
+<li>Orientación en decisiones creativas y técnicas.</li>
+<li>Talleres e intercambio de metodologías.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-A **ViOD Games Studio** participo com a artista 3D i mentor de projectes de *serious games*, combinant la producció d'assets amb l'acompanyament d'alumnes en la presa de decisions i en els processos de producció amb Unity i Unreal Engine.
+## 💼 Trayectoria profesional
 
-### Programació i experiències interactives
+### ViOD Games Studio · Artista 3D y mentor de proyectos
 
-Combino els coneixements artístics amb la programació i el treball amb motors de videojocs. La meva activitat inclou programació estructurada en **Java**, programació web amb **JavaScript** i projectes de **realitat virtual amb Unity** en l'àmbit formatiu.
+**Diciembre de 2025 – actualidad**
 
-Aquesta connexió entre disciplines em permet entendre les necessitats de la producció visual i les del desenvolupament, i facilitar el diàleg entre perfils creatius i tècnics.
+Participo en proyectos de *serious games*, creando assets 3D de objetos y personajes para flujos de trabajo en tiempo real con **Unity y Unreal Engine**. Compagino la producción artística con la mentoría de estudiantes, acompañándolos en la toma de decisiones y en el desarrollo de los proyectos.
 
-### Coordinació i gestió formativa
+Esta combinación me permite trabajar sobre necesidades de producción y, al mismo tiempo, ayudar a otros perfiles a comprender el proceso y asumir responsabilidades dentro de él.
 
-Entre **2021 i 2026** he exercit com a coordinador de l'àrea tecnològica de l'Escola Pia Nostra Senyora, participant en la gestió i la planificació dels cicles de Sistemes Microinformàtics i Xarxes, Desenvolupament d'Aplicacions Multiplataforma i Animació 3D, Jocs i Entorns Interactius, així com del postgrau de Tècniques Avançades d'Art 3D.
+### Escola Pia · Profesor de formación profesional y postgrado
 
-Aquesta experiència m'ha permès desenvolupar una visió de conjunt: connectar especialitats, coordinar necessitats formatives i donar continuïtat als projectes més enllà de l'aula.
+**Escola Pia Mataró · Desde septiembre de 2025**  
+**Escola Pia Nostra Senyora · 2019–2026**
 
-### Docència i mentoria
+He impartido contenidos en **Animación 3D, Juegos y Entornos Interactivos; Desarrollo de Aplicaciones Multiplataforma; Desarrollo de Aplicaciones Web; Sistemas Microinformáticos y Redes**, y en el **postgrado de Técnicas Avanzadas de Arte 3D**.
 
-He impartit formació professional i postgrau a **Escola Pia Nostra Senyora i Escola Pia Mataró**, en àmbits que inclouen art 3D, disseny de videojocs, programació, desenvolupament web, realitat virtual, sistemes i xarxes.
+Mi experiencia abarca modelado y texturizado, concept art, diseño gráfico, diseño de juegos, programación estructurada, JavaScript, realidad virtual, ofimática, servicios en red y trabajo por proyectos.
 
-Entenc la docència com un acompanyament cap a l'autonomia professional. Treballo a partir de projectes pràctics, fomentant el criteri propi, la iniciativa, la col·laboració i la capacitat de resoldre problemes. M'importa que l'alumnat entengui les decisions que pren i aprengui a defensar-les, revisar-les i millorar-les.
+### Escola Pia Nostra Senyora · Coordinador del área tecnológica
 
-## Experiència internacional
+**2021–2026**
 
-L'intercanvi amb altres professionals i institucions ha ampliat la meva manera d'entendre la producció digital i la formació.
+He asumido la gestión y planificación del área tecnológica, conectando los ciclos de **SMX, DAM y A3D** con la formación de postgrado en arte 3D. Esta responsabilidad me ha aportado experiencia para organizar programas, coordinar necesidades y mantener una visión global de la formación.
 
-- **Lima, Perú · SENATI · 2025.** Docent internacional convidat en un seminari d'arts gràfiques: ponència sobre animació i art 3D, taller per al professorat sobre tecnologia, IA i metodologies educatives, i col·laboració amb l'equip pedagògic en la revisió curricular.
-- **Tartu, Estònia · Tartu Rakenduslik Kolledž · 2025.** Mobilitat docent en el marc del pla d'innovació de la Fundació Barcelona FP, centrada en l'intercanvi de metodologies i enfocaments pràctics.
-- **Wrocław, Polònia · Uniwersytet Dolnośląski DSW · 2024.** Estada Erasmus+ de *job shadowing* amb docents i estudiants dels àmbits de l'art 3D, els efectes visuals i la programació.
-- **Cork, Irlanda · Cork College of FET · 2022.** Estada d'observació i intercanvi sobre metodologies docents i sistemes educatius.
+---
 
-## Eines i competències
+## 🚀 Tecnologías y herramientas
 
-| Àmbit | Eines i coneixements |
+### Modelado y escultura digital
+
+![3ds Max](https://img.shields.io/badge/3ds_Max-087F8C?style=for-the-badge)
+![Maya](https://img.shields.io/badge/Maya-149CAA?style=for-the-badge)
+![ZBrush](https://img.shields.io/badge/ZBrush-333333?style=for-the-badge)
+
+Modelado de personajes y objetos · Escultura digital · Retopología · Preparación de assets.
+
+### Texturas, diseño e ilustración
+
+![Substance Painter](https://img.shields.io/badge/Substance_3D_Painter-467A20?style=for-the-badge)
+![Substance Designer](https://img.shields.io/badge/Substance_3D_Designer-365C19?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-163B64?style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/Illustrator-9C4B00?style=for-the-badge)
+![Procreate](https://img.shields.io/badge/Procreate-292929?style=for-the-badge)
+
+Texturizado y materiales · Concept art · Diseño gráfico · Ilustración digital y tradicional.
+
+### Motores y programación
+
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B64926?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Producción en tiempo real · Serious games · Proyectos de realidad virtual · Enseñanza de programación.
+
+## 🖼️ Proyectos y portfolio
+
+Mi portfolio reúne trabajos que reflejan mi formación artística y mi interés por construir personajes y entornos con identidad propia.
+
+| Proyecto | Contexto | Enlace |
+| --- | --- | --- |
+| **Rhaegor, The Rock Fury** | Proyecto final del Máster en Arte 3D, Animación y Efectos Visuales para Cinema y Videojuegos. | [Ver proyecto →](https://www.artstation.com/artwork/29zD4J) |
+| **La casa japonesa en tiempos de Edo y el Ukiyo-e** | Proyecto final del Grado en Diseño y Producción de Videojuegos. | [Ver proyecto →](https://www.artstation.com/artwork/lxm1EV) |
+| **Portfolio de arte 3D** | Selección de trabajos y proyectos artísticos. | [Explorar ArtStation →](https://www.artstation.com/mzamoramerino) |
+
+<!-- Para convertir esta sección en una galería, añade renders propios al repositorio.
+Ejemplos de imágenes enlazadas; activa estas líneas cuando existan los archivos:
+[![Rhaegor, The Rock Fury](assets/rhaegor.jpg)](https://www.artstation.com/artwork/29zD4J)
+[![La casa japonesa en tiempos de Edo y el Ukiyo-e](assets/casa-japonesa.jpg)](https://www.artstation.com/artwork/lxm1EV)
+-->
+
+## 🌍 Experiencia internacional
+
+Conocer otras formas de enseñar y trabajar me ha permitido revisar mis propios métodos y ampliar mi visión de las profesiones creativas y tecnológicas.
+
+| Año | Destino e institución | Experiencia |
+| --- | --- | --- |
+| **2025** | 🇵🇪 **Lima, Perú · SENATI** | Docente internacional invitado: ponencia sobre animación y arte 3D, taller para profesorado sobre tecnología, IA y metodologías educativas, y colaboración en revisión curricular. |
+| **2025** | 🇪🇪 **Tartu, Estonia · Tartu Rakenduslik Kolledž** | Movilidad docente con la Fundació Barcelona FP para intercambiar metodologías y enfoques prácticos de formación profesional. |
+| **2024** | 🇵🇱 **Wrocław, Polonia · Uniwersytet Dolnośląski DSW** | Job shadowing Erasmus+ con docentes y estudiantes de arte 3D, efectos visuales y programación. |
+| **2022** | 🇮🇪 **Cork, Irlanda · Cork College of FET** | Observación docente e intercambio sobre metodologías y sistemas educativos. |
+
+---
+
+## 📚 Formación y conocimiento compartido
+
+### Mi manera de entender el aprendizaje
+
+Para mí, formar profesionales significa ayudarles a **comprender, decidir y actuar con autonomía**. Una herramienta cambia; la capacidad de analizar un problema, buscar información y justificar una solución sigue siendo útil.
+
+Por eso doy especial importancia a:
+
+- **Aprender haciendo:** relacionar los contenidos con proyectos y situaciones concretas.
+- **Construir sobre las bases:** recuperar conocimientos previos y conectarlos con nuevos retos.
+- **Desarrollar criterio:** entender por qué una solución funciona y cuándo conviene revisarla.
+- **Trabajar con iniciativa:** investigar, probar, documentar y aprender de los errores.
+- **Colaborar con responsabilidad:** comunicar decisiones y cuidar el trabajo compartido.
+
+### El propósito de este GitHub
+
+Quiero que este espacio conecte mi actividad profesional con mi trabajo docente: un lugar para documentar procesos, compartir recursos y hacer visible cómo se construyen los proyectos.
+
+Las líneas de contenido que quiero desarrollar aquí son:
+
+| Línea | Enfoque |
 | --- | --- |
-| Creació 3D | 3ds Max, Maya, ZBrush; modelatge, escultura digital i retopologia |
-| Textures i materials | Substance 3D Painter i Substance 3D Designer |
-| Disseny i il·lustració | Photoshop, Illustrator i Procreate; concept art i dibuix |
-| Desenvolupament interactiu | Unity, Unreal Engine i realitat virtual |
-| Programació | Java i JavaScript |
-| Coordinació i formació | Planificació, mentoria, aprenentatge per projectes i revisió curricular |
+| **Programación** | Fundamentos, ejercicios y proyectos para desarrollar el razonamiento y la resolución de problemas. |
+| **Desarrollo web** | JavaScript y construcción de experiencias interactivas. |
+| **Unity y realidad virtual** | Proyectos guiados que conecten programación, interacción y creación de entornos. |
+| **Arte 3D y videojuegos** | Procesos de producción, recursos y documentación de decisiones artísticas y técnicas. |
+| **Sistemas y redes** | Guías prácticas y documentación de entornos de trabajo en el contexto de la FP. |
 
-## Formació i projectes personals
+<!-- Cuando dispongas de las URL definitivas, enlaza aquí tus repositorios destacados.
+Formato: [Nombre del repositorio](URL) — Una frase que explique su utilidad.
+No se incluyen enlaces provisionales para evitar destinos rotos.
+-->
 
-La meva formació connecta la producció de videojocs, l'especialització artística i la pedagogia:
+## 🎓 Formación académica
 
-- **Màster en Formació del Professorat** — Blanquerna · La Salle · Universitat Ramon Llull, 2024–2025.
-- **Màster en Art 3D, Animació i Efectes Visuals per a Cinema i Videojocs** — CEV, 2022–2023.
-- **Grau en Disseny i Producció de Videojocs** — TecnoCampus · Universitat Pompeu Fabra, 2016–2021.
+- **Máster en Formación del Profesorado de ESO, Bachillerato, FP y Enseñanza de Idiomas**  
+  Blanquerna · La Salle · Universitat Ramon Llull · **2024–2025**.
+- **Máster en Arte 3D, Animación y Efectos Visuales para Cinema y Videojuegos**  
+  CEV · Escuela Superior de Comunicación, Imagen y Sonido · **2022–2023**.
+- **Grado en Diseño y Producción de Videojuegos**  
+  TecnoCampus · Universitat Pompeu Fabra · **2016–2021**.
 
-Dos projectes que reflecteixen els meus interessos artístics són [**Rhaegor, The Rock Fury**](https://www.artstation.com/artwork/29zD4J), projecte final de màster, i [**La casa japonesa en temps d'Edo i l'Ukiyo-e**](https://www.artstation.com/artwork/lxm1EV), projecte final de grau.
+**Idiomas:** catalán y castellano nativos · inglés con nivel equivalente a B2.
 
-## Com treballo
+## ✨ Más allá del trabajo
 
-M'agrada entendre el context abans de proposar una solució, cuidar els detalls i mantenir una comunicació clara durant el procés. Aporto una mirada creativa, organització i predisposició a col·laborar, amb la voluntat de continuar aprenent en cada projecte.
+El arte, la cultura y los viajes alimentan mi curiosidad y mi manera de observar. Disfruto de la ilustración tradicional, el cine, las series y el deporte. Estas aficiones también forman parte de mi mirada creativa: me acercan a otras historias, referencias y maneras de representar el mundo.
 
-L'art, la cultura, els viatges i la il·lustració tradicional alimenten la meva curiositat i la manera com observo i construeixo mons visuals.
+## 🤝 ¿Colaboramos?
 
-**Llengües:** català i castellà natius · anglès amb nivell equivalent a B2.
+Me interesa conectar con profesionales, estudios, centros educativos y equipos que necesiten combinar **creatividad, conocimiento técnico y capacidad de acompañamiento**.
 
-## Parlem?
+Podemos hablar de:
 
-Si busques un perfil que connecti **art 3D, tecnologia, formació i coordinació de projectes**, podem parlar de com col·laborar.
+- **Producción artística:** modelado, escultura digital y assets 3D para proyectos interactivos.
+- **Videojuegos y serious games:** colaboración artística y conexión entre producción y formación.
+- **Formación y talleres:** arte 3D, videojuegos y aprendizaje basado en proyectos.
+- **Mentoría:** acompañamiento de estudiantes y orientación de proyectos creativos y tecnológicos.
+- **Iniciativas educativas:** intercambio de materiales, metodologías y experiencias profesionales.
 
-**[Escriu-me](mailto:mzamoramerino@gmail.com)** · [Connecta amb mi a LinkedIn](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) · [Explora el meu portafolis](https://www.artstation.com/mzamoramerino)
+Si quieres proponer una mejora a un repositorio, puedes abrir una *issue* o enviar una *pull request* cuando las contribuciones estén habilitadas. Para encargos, formación o propuestas profesionales, puedes escribirme directamente.
+
+<div align="center">
+
+### Hablemos de tu próximo proyecto
+
+[**✉️ Correo electrónico**](mailto:mzamoramerino@gmail.com) &nbsp; · &nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) &nbsp; · &nbsp; [**🎨 ArtStation**](https://www.artstation.com/mzamoramerino)
+
+**Crear con intención. Compartir con criterio. Seguir aprendiendo.**
+
+Gracias por visitar mi perfil.
+
+</div>
