@@ -9,6 +9,7 @@
 Conecto el arte digital, los videojuegos y la formación a través de proyectos, personas y conocimiento compartido.
 
 [![Portfolio](https://img.shields.io/badge/ARTSTATION-Portfolio_3D-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/mzamoramerino)
+[![TheRookies](https://img.shields.io/badge/THE_ROOKIES-Portfolio-FF5A5F?style=for-the-badge)](https://www.therookies.co/u/mzamoramerino)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Conectemos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998)
 [![Email](https://img.shields.io/badge/EMAIL-Hablemos-D97052?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzamoramerino@gmail.com)
 
@@ -146,7 +147,7 @@ Mi portfolio reúne trabajos que reflejan mi formación artística y mi interés
 | --- | --- | --- |
 | **Rhaegor, The Rock Fury** | Proyecto final del Máster en Arte 3D, Animación y Efectos Visuales para Cinema y Videojuegos. | [Ver proyecto →](https://www.artstation.com/artwork/29zD4J) |
 | **La casa japonesa en tiempos de Edo y el Ukiyo-e** | Proyecto final del Grado en Diseño y Producción de Videojuegos. | [Ver proyecto →](https://www.artstation.com/artwork/lxm1EV) |
-| **Portfolio de arte 3D** | Selección de trabajos y proyectos artísticos. | [Explorar ArtStation →](https://www.artstation.com/mzamoramerino) |
+| **Portfolio de arte 3D** | Selección de trabajos y proyectos artísticos. | [Explorar ArtStation →](https://www.artstation.com/mzamoramerino) · [TheRookies →](https://www.therookies.co/u/mzamoramerino) |
 
 <!-- Para convertir esta sección en una galería, añade renders propios al repositorio.
 Ejemplos de imágenes enlazadas; activa estas líneas cuando existan los archivos:
@@ -233,7 +234,7 @@ Si quieres proponer una mejora a un repositorio, puedes abrir una *issue* o envi
 
 ### Hablemos de tu próximo proyecto
 
-[**✉️ Correo electrónico**](mailto:mzamoramerino@gmail.com) &nbsp; · &nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) &nbsp; · &nbsp; [**🎨 ArtStation**](https://www.artstation.com/mzamoramerino)
+[**✉️ Correo electrónico**](mailto:mzamoramerino@gmail.com) &nbsp; · &nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) &nbsp; · &nbsp; [**🎨 ArtStation**](https://www.artstation.com/mzamoramerino) &nbsp; · &nbsp; [**⭐ TheRookies**](https://www.therookies.co/u/mzamoramerino)
 
 **Crear con intención. Compartir con criterio. Seguir aprendiendo.**
 
