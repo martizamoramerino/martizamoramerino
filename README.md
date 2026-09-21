@@ -19,9 +19,8 @@ Conecto el arte digital, los videojuegos y la formación a través de proyectos,
 
 <!-- Opcional: añade aquí una imagen panorámica propia con una selección de tus trabajos.
 Guárdala en assets/banner-portfolio.jpg y utiliza:
-![Selección de trabajos de arte 3D de Martí Zamora](assets/banner-portfolio.jpg)
 -->
-
+![Selección de trabajos de arte 3D de Martí Zamora](assets/banner-portfolio.png)
 ---
 
 ## 🎯 Sobre mí
