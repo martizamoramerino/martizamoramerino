@@ -14,9 +14,6 @@ Conecto el arte digital, los videojuegos y la formación a través de proyectos,
 <a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="72" /></a>
 
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=martizamoramerino&label=visitas+al+perfil&color=0e75b6&style=flat)](https://github.com/martizamoramerino)
-[![Stars](https://img.shields.io/github/stars/martizamoramerino/martizamoramerino?style=flat)](https://github.com/martizamoramerino/martizamoramerino/stargazers)
-[![Forks](https://img.shields.io/github/forks/martizamoramerino/martizamoramerino?style=flat)](https://github.com/martizamoramerino/martizamoramerino/forks)
-[![Pull requests](https://img.shields.io/github/issues-pr/martizamoramerino/martizamoramerino?style=flat)](https://github.com/martizamoramerino/martizamoramerino/pulls)
 
 **Arte y producción 3D** &nbsp; / &nbsp; **Videojuegos y VR** &nbsp; / &nbsp; **Coordinación y formación**
 
