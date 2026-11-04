@@ -8,10 +8,10 @@
 
 Conecto el arte digital, los videojuegos y la formación a través de proyectos, personas y conocimiento compartido.
 
-[![Portfolio](https://img.shields.io/badge/ARTSTATION-Portfolio_3D-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/mzamoramerino)
-[![TheRookies](https://img.shields.io/badge/THE_ROOKIES-Portfolio-FF5A5F?style=for-the-badge)](https://www.therookies.co/u/mzamoramerino)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Conectemos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998)
-[![Email](https://img.shields.io/badge/EMAIL-Hablemos-D97052?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzamoramerino@gmail.com)
+<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="72" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="72" /></a>&nbsp;
+<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="72" /></a>&nbsp;
+<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="72" /></a>
 
 **Arte y producción 3D** &nbsp; / &nbsp; **Videojuegos y VR** &nbsp; / &nbsp; **Coordinación y formación**
 
@@ -111,32 +111,44 @@ He asumido la gestión y planificación del área tecnológica, conectando los c
 
 ## 🚀 Tecnologías y herramientas
 
-### Modelado y escultura digital
+<div align="center">
 
-![3ds Max](https://img.shields.io/badge/3ds_Max-087F8C?style=for-the-badge)
-![Maya](https://img.shields.io/badge/Maya-149CAA?style=for-the-badge)
-![ZBrush](https://img.shields.io/badge/ZBrush-333333?style=for-the-badge)
+**Modelado y escultura digital**
+
+| [![3ds Max](assets/icon-3dsmax.png)](https://www.autodesk.com/products/3ds-max/) | [![Maya](assets/icon-maya.png)](https://www.autodesk.com/products/maya/) | [![ZBrush](assets/icon-zbrush.png)](https://pixologic.com/) |
+|:---:|:---:|:---:|
 
 Modelado de personajes y objetos · Escultura digital · Retopología · Preparación de assets.
 
-### Texturas, diseño e ilustración
+---
 
-![Substance Painter](https://img.shields.io/badge/Substance_3D_Painter-467A20?style=for-the-badge)
-![Substance Designer](https://img.shields.io/badge/Substance_3D_Designer-365C19?style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/Photoshop-163B64?style=for-the-badge)
-![Illustrator](https://img.shields.io/badge/Illustrator-9C4B00?style=for-the-badge)
-![Procreate](https://img.shields.io/badge/Procreate-292929?style=for-the-badge)
+**Texturas y diseño visual**
+
+| [![Substance Painter](assets/icon-painter.png)](https://www.substance3d.com/products/substance-painter/) | [![Substance Designer](assets/icon-designer.png)](https://www.substance3d.com/products/substance-designer/) | [![Photoshop](assets/icon-photoshop.png)](https://www.adobe.com/products/photoshop.html) | [![Illustrator](assets/icon-illustartor.png)](https://www.adobe.com/products/illustrator.html) | [![Procreate](assets/icon-procreate.png)](https://procreate.art/) |
+|:---:|:---:|:---:|:---:|:---:|
 
 Texturizado y materiales · Concept art · Diseño gráfico · Ilustración digital y tradicional.
 
-### Motores y programación
+---
 
-![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B64926?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Motores de juego y herramientas de desarrollo**
 
-Producción en tiempo real · Serious games · Proyectos de realidad virtual · Enseñanza de programación.
+| [![Unity](assets/icon-unity.png)](https://unity.com/) | [![Unreal Engine](assets/icon-unreal.png)](https://www.unrealengine.com/) | [![Visual Studio Code](assets/icon-vscode.png)](https://code.visualstudio.com/) |
+|:---:|:---:|:---:|
+
+Unity y Unreal Engine: producción en tiempo real · Serious games · Proyectos de realidad virtual.<br>
+Visual Studio Code: editor de código para desarrollo web y programación.
+
+---
+
+**Lenguajes de programación**
+
+| [![Java](assets/icon-java.png)](https://www.java.com/) | [![JavaScript](assets/icon-js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) | [![HTML](assets/icon-html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![C#](assets/icon-csharp.png)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
+|:---:|:---:|:---:|:---:|
+
+Programación estructurada · Desarrollo web · Experiencias interactivas · Enseñanza de programación.
+
+</div>
 
 ## 🖼️ Proyectos y portfolio
 
@@ -233,7 +245,10 @@ Si quieres proponer una mejora a un repositorio, puedes abrir una *issue* o envi
 
 ### Hablemos de tu próximo proyecto
 
-[**✉️ Correo electrónico**](mailto:mzamoramerino@gmail.com) &nbsp; · &nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998) &nbsp; · &nbsp; [**🎨 ArtStation**](https://www.artstation.com/mzamoramerino) &nbsp; · &nbsp; [**⭐ TheRookies**](https://www.therookies.co/u/mzamoramerino)
+<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="72" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="72" /></a>&nbsp;
+<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="72" /></a>&nbsp;
+<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="72" /></a>
 
 **Crear con intención. Compartir con criterio. Seguir aprendiendo.**
 
