@@ -8,10 +8,10 @@
 
 Conecto el arte digital, los videojuegos y la formación a través de proyectos, personas y conocimiento compartido.
 
-<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="72" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="72" /></a>&nbsp;
-<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="72" /></a>&nbsp;
-<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="72" /></a>
+<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="90" height="90" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="90" height="90" /></a>&nbsp;
+<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="90" height="90" /></a>&nbsp;
+<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="90" height="90" /></a>
 
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=martizamoramerino&label=visitas+al+perfil&color=0e75b6&style=flat)](https://github.com/martizamoramerino)
 
@@ -117,16 +117,25 @@ He asumido la gestión y planificación del área tecnológica, conectando los c
 
 **Modelado y escultura digital**
 
-| [![3ds Max](assets/icon-3dsmax.png)](https://www.autodesk.com/products/3ds-max/) | [![Maya](assets/icon-maya.png)](https://www.autodesk.com/products/maya/) | [![ZBrush](assets/icon-zbrush.png)](https://pixologic.com/) |
+| [<img src="assets/icon-3dsmax.png" alt="3ds Max" width="180" height="180" />](https://www.autodesk.com/products/3ds-max/) | [<img src="assets/icon-maya.png" alt="Maya" width="180" height="180" />](https://www.autodesk.com/products/maya/) | [<img src="assets/icon-zbrush.png" alt="ZBrush" width="180" height="180" />](https://pixologic.com/) |
 |:---:|:---:|:---:|
 
 Modelado de personajes y objetos · Escultura digital · Retopología · Preparación de assets.
 
 ---
 
+**Simulación, baking y render**
+
+| [<img src="assets/icon-marvelous.png" alt="Marvelous Designer" width="180" height="180" />](https://www.marvelousdesigner.com/) | [<img src="assets/icon-marmoset.png" alt="Marmoset Toolbag" width="180" height="180" />](https://marmoset.co/toolbag/) |
+|:---:|:---:|
+
+Marvelous Designer: diseño y simulación de prendas · Marmoset Toolbag: baking de mapas y presentación de assets 3D.
+
+---
+
 **Texturas y diseño visual**
 
-| [![Substance Painter](assets/icon-painter.png)](https://www.substance3d.com/products/substance-painter/) | [![Substance Designer](assets/icon-designer.png)](https://www.substance3d.com/products/substance-designer/) | [![Photoshop](assets/icon-photoshop.png)](https://www.adobe.com/products/photoshop.html) | [![Illustrator](assets/icon-illustartor.png)](https://www.adobe.com/products/illustrator.html) | [![Procreate](assets/icon-procreate.png)](https://procreate.art/) |
+| [<img src="assets/icon-painter.png" alt="Substance Painter" width="180" height="180" />](https://www.substance3d.com/products/substance-painter/) | [<img src="assets/icon-designer.png" alt="Substance Designer" width="180" height="180" />](https://www.substance3d.com/products/substance-designer/) | [<img src="assets/icon-photoshop.png" alt="Photoshop" width="180" height="180" />](https://www.adobe.com/products/photoshop.html) | [<img src="assets/icon-illustartor.png" alt="Illustrator" width="180" height="180" />](https://www.adobe.com/products/illustrator.html) | [<img src="assets/icon-procreate.png" alt="Procreate" width="180" height="180" />](https://procreate.art/) |
 |:---:|:---:|:---:|:---:|:---:|
 
 Texturizado y materiales · Concept art · Diseño gráfico · Ilustración digital y tradicional.
@@ -135,7 +144,7 @@ Texturizado y materiales · Concept art · Diseño gráfico · Ilustración digi
 
 **Motores de juego y herramientas de desarrollo**
 
-| [![Unity](assets/icon-unity.png)](https://unity.com/) | [![Unreal Engine](assets/icon-unreal.png)](https://www.unrealengine.com/) | [![Visual Studio Code](assets/icon-vscode.png)](https://code.visualstudio.com/) |
+| [<img src="assets/icon-unity.png" alt="Unity" width="180" height="180" />](https://unity.com/) | [<img src="assets/icon-unreal.png" alt="Unreal Engine" width="180" height="180" />](https://www.unrealengine.com/) | [<img src="assets/icon-vscode.png" alt="Visual Studio Code" width="180" height="180" />](https://code.visualstudio.com/) |
 |:---:|:---:|:---:|
 
 Unity y Unreal Engine: producción en tiempo real · Serious games · Proyectos de realidad virtual.<br>
@@ -145,7 +154,7 @@ Visual Studio Code: editor de código para desarrollo web y programación.
 
 **Lenguajes de programación**
 
-| [![Java](assets/icon-java.png)](https://www.java.com/) | [![JavaScript](assets/icon-js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) | [![HTML](assets/icon-html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![C#](assets/icon-csharp.png)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
+| [<img src="assets/icon-java.png" alt="Java" width="180" height="180" />](https://www.java.com/) | [<img src="assets/icon-js.png" alt="JavaScript" width="180" height="180" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) | [<img src="assets/icon-html.png" alt="HTML" width="180" height="180" />](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="assets/icon-csharp.png" alt="C#" width="180" height="180" />](https://learn.microsoft.com/en-us/dotnet/csharp/) |
 |:---:|:---:|:---:|:---:|
 
 Programación estructurada · Desarrollo web · Experiencias interactivas · Enseñanza de programación.
@@ -247,10 +256,10 @@ Si quieres proponer una mejora a un repositorio, puedes abrir una *issue* o envi
 
 ### Hablemos de tu próximo proyecto
 
-<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="72" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="72" /></a>&nbsp;
-<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="72" /></a>&nbsp;
-<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="72" /></a>
+<a href="mailto:mzamoramerino@gmail.com"><img src="assets/icon-mail.png" alt="Correo electrónico" width="90" height="90" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mart%C3%AD-zamora-merino-16051998"><img src="assets/icon-linkedin.png" alt="LinkedIn" width="90" height="90" /></a>&nbsp;
+<a href="https://www.artstation.com/mzamoramerino"><img src="assets/icon-artstation.png" alt="ArtStation" width="90" height="90" /></a>&nbsp;
+<a href="https://www.therookies.co/u/mzamoramerino"><img src="assets/icon-rookies.png" alt="The Rookies" width="90" height="90" /></a>
 
 **Crear con intención. Compartir con criterio. Seguir aprendiendo.**
 
